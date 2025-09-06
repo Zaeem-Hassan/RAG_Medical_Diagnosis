@@ -13,8 +13,8 @@ This is the **FastAPI-based backend** for the **Medical Diagnosis Application**,
 | **Home Page**                             | <img width="959" height="428" alt="homepage" src="https://github.com/user-attachments/assets/3d246004-8e96-476b-aac7-ac48247adbab" />
 | **Report Upload / Doctor Diagnosis View** | <img width="950" height="409" alt="patientDashboard" src="https://github.com/user-attachments/assets/4c223943-86c2-424b-bb26-1adb8a26c8e0" />
 | **Doctor Diagnosis View**                 |<img width="957" height="420" alt="doctorDahboard" src="https://github.com/user-attachments/assets/6f541003-7501-46f7-89e0-043207af8282" />
- |
 
+**Watch the Demo on YouTube** https://www.youtube.com/watch?v=8GiIDtHkzFU
 
 ---
 
@@ -149,6 +149,7 @@ API_URL=
 This project is licensed under the **MIT License**.
 
 ---
+
 
 
 
