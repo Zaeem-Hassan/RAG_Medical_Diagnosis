@@ -1,6 +1,6 @@
 # 🏥 Medical Report Diagnosis
+![Generated Image September 06, 2025 - 10_27PM](https://github.com/user-attachments/assets/f800e5ea-80c2-47e7-8e8f-7d5ce5fe6e66)
 
-![YouTube Thumbnail](Generated Image September 06, 2025 - 10_27PM.jpeg)
 
 This is the **FastAPI-based backend** for the **Medical Diagnosis Application**, which provides authentication, PDF report upload, AI-powered medical diagnosis using LLaMA 3 via Groq API, and stores metadata in MongoDB with Pinecone for vector storage.
 
@@ -151,3 +151,4 @@ API_URL=
 This project is licensed under the **MIT License**.
 
 ---
+
